@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu Dialog dan Gesture</string>
+    <string name="pengguna">Pengguna</string>
+    <string name="action_settings">Pengaturan</string>
+    <!--menambah menu (value) baru di strings.xml namanya menu_about-->
+    <string name="menu_about">Pembuat</string>
+</resources>
